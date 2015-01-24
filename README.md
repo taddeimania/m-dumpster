@@ -22,4 +22,4 @@ the tables linearly until it reaches the table that joines on your target field.
 
 *TABLE_NAME - This will do a full table dump regardless of parameters (WARNING: Use this sparingly)
 
-#TABLE_NAME - This will extract a table's schema with no data in it. This might be important - you'll learn quickly if you need to do this.
+\#TABLE_NAME - This will extract a table's schema with no data in it. This might be important - you'll learn quickly if you need to do this.
