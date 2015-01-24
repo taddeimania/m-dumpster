@@ -1,4 +1,4 @@
-#MySQL Related Data Exporter
+#MySQL Related Data Dumper
 
 This program is intended to retrieve records from a MySQL DB table based on data found in another table.
 
