@@ -10,15 +10,14 @@ def readme():
 
 
 setup(
-    name='MySQL Field Dumper (MDumpster)',
+    name='m-dumpster',
     version='0.0.1',
     author="Joel Taddei @taddeimania",
     author_email="jtaddei@gmail.com",
     description="Export your related MySQL data to .sql files",
     long_description=readme(),
-    url='http://github.com/taddeimania/mdumpster',
+    url='http://github.com/taddeimania/m-dumpster',
     packages=find_packages(),
-    setup_requires=['nose', 'mock'],
     test_suite="nose.collector",
     entry_points={
         'console_scripts': {
